@@ -1,0 +1,32 @@
+#add{
+	margin-bottom: 6px;
+}
+#add:focus{
+	outline: none;
+}
+#cancel{
+	margin-bottom: 6px;
+}
+#cancel:focus{
+	outline: none;	
+}
+.editInput{
+	display: none;
+}
+.editInput:focus{
+	border: none;
+}
+.editOperation{
+	margin-right:3px;
+}
+.editOperation:focus{
+	outline: none;
+}
+.error-message{
+	color: red;
+	margin: 0 0 1% 18%;
+	display: none;
+}
+#sort:focus{
+	outline: none;	
+}
